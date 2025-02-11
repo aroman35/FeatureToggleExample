@@ -1,6 +1,6 @@
 namespace FeatureToggleExample;
 
-public class ApplicationConstants
+public static class ApplicationConstants
 {
-    
+    public const string FEATURE_WEATHER_V2 = "FEATURE_WEATHER_V2";
 }

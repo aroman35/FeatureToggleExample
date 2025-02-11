@@ -1,6 +1,1 @@
-namespace FeatureToggleExample;
-
-public class Usings
-{
-    
-}
+global using static FeatureToggleExample.ApplicationConstants;
